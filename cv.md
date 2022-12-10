@@ -1,7 +1,6 @@
 Karolina Vinnikova
 
 Contact information:
-Phone: +375447724779
 E-mail: vinnkarol@gmail.com
 Tg: @meaansel
 
