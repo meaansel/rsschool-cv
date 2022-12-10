@@ -9,6 +9,7 @@ About me:
 I'm 22 years old on the way of defining my career path. Currently I'm interested in programming and trying to understand whether it suits me or not.
 
 Code example:
+
 print('Hello, World!')
 
 Skills:
@@ -21,6 +22,7 @@ Skills:
 Education:
 Saint-Peresburg State University
 - Liberal Arts (Cognitive Science major)
+- Stepik course on Python
 
 Languages:
 - Belarussian (Native)
